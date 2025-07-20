@@ -1,0 +1,22 @@
+body {
+    background-color: #fbe9e7;
+    font-family: 'Georgia', serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.video-container {
+    margin: 25px auto;
+}
+
+.animated-box {
+    width: 230px;
+    height: 55px;
+    margin: 35px auto;
+    background-color: #d84315;
+    line-height: 55px;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 10px;
+    position: relative;
+}
